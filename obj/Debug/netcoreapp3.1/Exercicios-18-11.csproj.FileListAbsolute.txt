@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Exercicios-18-11\bin\Debug\netcoreapp3.1\Exercicios-18-11.exe
+C:\Users\ACER\Desktop\Exercicios-18-11\bin\Debug\netcoreapp3.1\Exercicios-18-11.deps.json
+C:\Users\ACER\Desktop\Exercicios-18-11\bin\Debug\netcoreapp3.1\Exercicios-18-11.runtimeconfig.json
+C:\Users\ACER\Desktop\Exercicios-18-11\bin\Debug\netcoreapp3.1\Exercicios-18-11.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Exercicios-18-11\bin\Debug\netcoreapp3.1\Exercicios-18-11.dll
+C:\Users\ACER\Desktop\Exercicios-18-11\bin\Debug\netcoreapp3.1\Exercicios-18-11.pdb
+C:\Users\ACER\Desktop\Exercicios-18-11\obj\Debug\netcoreapp3.1\Exercicios-18-11.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Exercicios-18-11\obj\Debug\netcoreapp3.1\Exercicios-18-11.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Exercicios-18-11\obj\Debug\netcoreapp3.1\Exercicios-18-11.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Exercicios-18-11\obj\Debug\netcoreapp3.1\Exercicios-18-11.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Exercicios-18-11\obj\Debug\netcoreapp3.1\Exercicios-18-11.dll
+C:\Users\ACER\Desktop\Exercicios-18-11\obj\Debug\netcoreapp3.1\Exercicios-18-11.pdb
+C:\Users\ACER\Desktop\Exercicios-18-11\obj\Debug\netcoreapp3.1\Exercicios-18-11.genruntimeconfig.cache
